@@ -1,0 +1,12 @@
+/* utility classes */
+body {
+    background-color:  #E5E5E5;
+}
+.full-height {
+    min-height: 100vh;
+}
+
+/* landing section */
+.landing {
+    background: white url('../images/header-shap-desktop.svg');
+}
