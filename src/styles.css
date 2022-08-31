@@ -9,4 +9,5 @@ body {
 /* landing section */
 .landing {
     background: white url('../images/header-shap-desktop.svg');
+    background-repeat: no-repeat;
 }
