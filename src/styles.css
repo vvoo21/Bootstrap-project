@@ -1,13 +1,54 @@
 /* utility classes */
+* {
+  font-family: "Poppins", sans-serif;
+}
+
 body {
-    background-color:  #E5E5E5;
+  background-color:  #e5e5ee;
 }
 .full-height {
-    min-height: 100vh;
+  min-height: 100vh;
 }
 
 /* landing section */
 .landing {
-    background: white url('../images/header-shap-desktop.svg');
+  background: white url('../images/header-shap-desktop.svg');
+  background-repeat: no-repeat;
+}
+
+@media (max-width: 767px) {
+  .language-item {
+    display: flex;
+    align-items: flex-end;
+    gap: 16px;
+    margin-bottom: 12px;
+  }
+}
+
+/* about-me section */
+
+.about-me {
+    background-image: url("../images/about-bg-desktop.png");
     background-repeat: no-repeat;
+}
+
+.language-item {
+    background-color: #f7f7f9;
+    border-radius: 8px;
+}
+
+.contact-me {
+    background-image: url("../images/footer-shap.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contact-me-form {
+    background-image: url("../images/footer-contact-shape.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form-list {
+    list-style-type: none;
 }
