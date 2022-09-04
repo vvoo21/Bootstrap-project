@@ -4,8 +4,8 @@
 }
 
 body {
-  background-color: #E5E5E5;
-  min-height: 100vh;  
+  background-color: #e5e5e5;
+  min-height: 100vh;
 }
 
 .full-height {
@@ -13,7 +13,7 @@ body {
 }
 
 .primary-header {
-  color: #091E42;
+  color: #091e42;
   font-weight: 700;
   font-size: 48px;
   line-height: 60px;
@@ -27,37 +27,34 @@ body {
 
 /* landing section */
 .landing {
-  background: 
+  background:
     url('../images/header-shap-desktop.svg'),
     url('../images/header-desktop.png');
   background-repeat: no-repeat;
   background-size: contain, cover;
 }
 
-landing-intro
-
 /* about-me section */
-
 .about-me {
-    background-image: url("../images/about-bg-desktop.png");
-    background-repeat: no-repeat;
-    background-size: cover, contain;
+  background-image: url("../images/about-bg-desktop.png");
+  background-repeat: no-repeat;
+  background-size: cover, contain;
 }
 
 .language-item {
-    border-radius: 8px;
+  border-radius: 8px;
 }
 
 .contact-me {
-    background-image: url("../images/footer-shap.png");
-    background-repeat: no-repeat;
-    background-size: cover;
+  background-image: url("../images/footer-shap.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .contact-me-form {
-    background-image: url("../images/footer-contact-shape.png");
-    background-repeat: no-repeat;
-    background-size: cover;
+  background-image: url("../images/footer-contact-shape.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .text-contact {
