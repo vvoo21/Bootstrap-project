@@ -2,16 +2,17 @@
 
 # Portfolio
 
-> In this project, I built my project with bootstrap
+> In this project, I built my portfolio's project with bootstrap
 
 ## Built With
 
 - HTML
 - CSS
+- Bootstrap5
 
 ## Live Demo
 
-[Vanessa's Portfolio]()
+[Vanessa's Portfolio](https://vvoo21.github.io/Bootstrap-project/)
 
 ## Getting Started
 
@@ -29,6 +30,11 @@ download and enjoy https://github.com/vvoo21/Bootstrap-project
 - GitHub: [@vvoo21](https://github.com/vvoo21)
 - Twitter: [@vaneoliverosp](https://twitter.com/vaneoliverosp)
 - LinkedIn: [vaneoliverosp](https://www.linkedin.com/in/vaneoliverosp/)
+
+👤 **Author2**
+
+- GitHub: [@MahdiSohaily](https://github.com/MahdiSohaily)
+- Twitter: [@Mahdi_Rezaei_AF](https://twitter.com/Mahdi_Rezaei_AF)
 
 
 ## 🤝 Contributing
